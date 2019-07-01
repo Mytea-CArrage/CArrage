@@ -1,6 +1,7 @@
 ﻿<doc> 
     <status>300</status>
     <info>true</info>
+    <threshold>-4800</threshold>
     <admin>
         <id>6569967</id>
         <id>28048254</id>
