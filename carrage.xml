@@ -1,7 +1,7 @@
 ﻿<doc> 
     <status>300</status>
     <info>true</info>
-    <threshold>-4800</threshold>
+    <threshold>-1200</threshold>
     <admin>
         <id></id>
     </admin>
